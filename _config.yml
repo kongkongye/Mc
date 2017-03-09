@@ -9,7 +9,7 @@
 title: 空空叶MC笔记
 brief-intro: Minecraft(我的世界)相关笔记
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://kongkongye.github.io" # the base hostname & protocol for your site
+url: "http://www.kongkongye.com" # the base hostname & protocol for your site
 author: kongkongye
 
 permalink: /:year/:month/:day/:title/
