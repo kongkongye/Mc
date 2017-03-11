@@ -14,12 +14,12 @@
      */
     var demoContent = [
         {
-            demo_link: 'https://codepen.io/haoyang/pen/jrvrQq',
+            demo_link: 'http://cmd.kongkongye.com',
             img_link: 'https://ooo.0o0.ooo/2016/11/24/5836d81f48cd2.png',
-            code_link: 'https://codepen.io/haoyang/pen/jrvrQq',
-            title: 'Fisher-Yates 洗牌算法动画',
-            core_tech: 'JavaScript',
-            description: 'Fisher-Yates 洗牌算法动画。算法详情见 <a href ="https://gaohaoyang.github.io/2016/10/16/shuffle-algorithm/">这里</a>。'
+            code_link: 'http://cmd.kongkongye.com',
+            title: '命令项目',
+            core_tech: 'java',
+            description: '此项目允许你用电脑网页，手机网页，微信公众号等方式进行操作,简便，耗流量少。'
         },{
         demo_link: 'http://gaohaoyang.github.io/test/headerTransition/',
         img_link: 'https://ooo.0o0.ooo/2016/06/20/5768c1597d1fe.png',
