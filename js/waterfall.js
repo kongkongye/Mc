@@ -15,7 +15,7 @@
     var demoContent = [
         {
             demo_link: 'http://cmd.kongkongye.com',
-            img_link: 'https://ooo.0o0.ooo/2016/11/24/5836d81f48cd2.png',
+            img_link: 'https://cmd.kongkongye.com/imgs/CmdProject.png',
             code_link: 'http://cmd.kongkongye.com',
             title: '命令项目',
             core_tech: 'java',
