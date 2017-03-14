@@ -19,7 +19,7 @@
             code_link: 'http://cmd.kongkongye.com',
             title: '命令项目',
             core_tech: 'java',
-            description: '此项目允许你用电脑网页，手机网页，微信公众号等方式进行操作。没有电脑只有手机？网络差远程卡？命令项目来帮你～'
+            description: '此项目允许你用电脑网页，手机网页，微信公众号等方式进行操作。手边没有电脑只有手机？网络差远程连接卡？命令项目来帮你～'
         },{
         demo_link: 'http://gaohaoyang.github.io/test/headerTransition/',
         img_link: 'https://ooo.0o0.ooo/2016/06/20/5768c1597d1fe.png',
