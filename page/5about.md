@@ -18,4 +18,6 @@ type: page
 
 ## 相关链接
 
-[空空叶主页](https://www.kongkongye.com) \| [空空叶MC导航](http://nav.kongkongye.com/) \| [空空叶MC博客](http://mc.kongkongye.com/) \| [空空叶MC盒子](http://mcbox.kongkongye.com/) \| [账号库](http://account.kongkongye.com/) \| [命令项目](http://cmd.kongkongye.com/) \| [命令客户端](http://cmd-client.kongkongye.com)
+[空空叶主页](https://www.kongkongye.com) \| [空空叶MC导航](http://nav.kongkongye.com/) \| [空空叶MC博客](http://mc.kongkongye.com/) \| [空空叶MC盒子](http://mcbox.kongkongye.com/) \| [命令客户端](http://cmd-client.kongkongye.com) 
+
+[账号库项目](http://account-project.kongkongye.com/) \| [命令项目](http://cmd-project.kongkongye.com/) \| [MockGame项目](http://mockgame-project.kongkongye.com)
