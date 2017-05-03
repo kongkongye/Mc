@@ -2,8 +2,8 @@
 permalink: /posts/project-maven
 layout: post
 title: 运行期项目管理工具 
-categories: 工具
-tags: 工具 项目管理 
+categories: minecraft
+tags: 项目 
 ---
 
 * content
