@@ -1,9 +1,9 @@
 ---
 permalink: /posts/project-maven
 layout: post
-title: 运行期项目管理工具 
+title: 运行期项目管理工具
 categories: minecraft
-tags: 项目 
+tags:
 ---
 
 * content
@@ -49,7 +49,7 @@ tags: 项目
 
 1. 简单
 2. 外接，即不需要改动插件文件本身，是`非侵入性`的，比如给插件增加个描述文件即可变为依赖
-3. 第三方可以 
+3. 第三方可以
 
 当然，只需要能覆盖大部分的现成插件即可，少数插件特殊情况可以特殊考虑，不需要从理论上保证100%的覆盖。
 

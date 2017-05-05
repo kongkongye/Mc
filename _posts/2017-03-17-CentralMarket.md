@@ -3,7 +3,7 @@ permalink: /posts/project-central-market
 layout: post
 title: 中央市场
 categories: minecraft
-tags: 项目
+tags:
 ---
 
 * content
