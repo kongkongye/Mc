@@ -2,7 +2,7 @@
 permalink: /posts/mybatis-ping
 layout: post
 title:  Mybatis的ping机制
-categories: 技术
+categories: sql
 tags:
 ---
 
