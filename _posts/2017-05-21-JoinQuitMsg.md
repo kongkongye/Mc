@@ -1,5 +1,5 @@
 ---
-permalink: /posts/spigot-plugin-joinQuitMsg
+permalink: /posts/spigot-plugin-joinQuitMsg2
 layout: post
 title:  JoinQuitMsg v1.0.1 - 进出服提示
 categories: minecraft插件
