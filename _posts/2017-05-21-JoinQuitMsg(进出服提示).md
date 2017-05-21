@@ -1,7 +1,7 @@
 ---
 permalink: /posts/spigot-plugin-joinQuitMsg
 layout: post
-title:  MC插件-JoinQuitMsg(进出服提示)
+title:  JoinQuitMsg(进出服提示)
 categories: minecraft插件
 tags:
 ---
