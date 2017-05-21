@@ -1,7 +1,7 @@
 ---
 permalink: /posts/spigot-plugin-joinQuitMsg
 layout: post
-title:  JoinQuitMsg(进出服提示)
+title:  JoinQuitMsg v1.0.1 - 进出服提示
 categories: minecraft插件
 tags:
 ---
@@ -29,3 +29,10 @@ tags:
 
 ## 其它说明
 * 配置文件`config.yml`使用UTF-8编码(中文无需转码)
+
+## 更新日志
+#### v1.0.1:
+* 提示信息增加换行符`\n`
+
+#### v1.0.0
+最初提交
