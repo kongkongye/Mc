@@ -9,7 +9,7 @@
 title: 空空叶笔记
 brief-intro: MC与技术学习笔记
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://www.kongkongye.com" # the base hostname & protocol for your site
+url: "http://myblog.kongkongye.com" # the base hostname & protocol for your site
 author: kongkongye
 
 permalink: /:year/:month/:day/:title/
